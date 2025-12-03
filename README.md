@@ -6,3 +6,5 @@
 
     credits to Flowseal's https://github.com/Flowseal/zapret-discord-youtube
 
+
+    чтобы все адекватно работало, заходите в Service.bat - включаете фукнции 6 и 7, перезапуск запрета и все торкает, обычно люди пользуются alt8
